@@ -80,8 +80,6 @@ El nombre del sistema se personalizó mediante la edición del archivo `Makefile
 
 ### Mensajes de Inicio Personalizados
 
-Se añadieron mensajes personalizados en los scripts de inicio del kernel para reflejar un mensaje de bienvenida único, indicando que el kernel ha sido modificado correctamente.
-
 ---
 
 ## Detalles de las nuevas llamadas al sistema
